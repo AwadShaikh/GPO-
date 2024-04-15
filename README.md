@@ -5,7 +5,6 @@ Tasks
 Creating GPO 
 
 
-Move objects between OUs
 
 -Manage group memberships.
 <br />
